@@ -1,0 +1,27 @@
+{
+  "evidence_class": "MEASURED",
+  "process_listen": "measured",
+  "image_build": "not-run",
+  "customer_cloud": "not-used",
+  "persisted_after_restart": true,
+  "duration_ms": 2926.5847,
+  "base_url": "http://127.0.0.1:63996",
+  "health_status": 200,
+  "ready_status": 200,
+  "create_status": 201,
+  "verify_status": 200,
+  "lead_decision_status": 403,
+  "release_status": 200,
+  "approve_status": 200,
+  "fetch_status": 200,
+  "final_stage": "approved",
+  "sha256": "f7ba495580e72b186b6f51bf25c2ef8670dca43059fbbd135ad24eebb3666f42",
+  "byte_length": 21,
+  "approver_subject": "SYN-USER-APPROVER",
+  "machine": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "cpu_count": 8,
+    "python": "3.12.10"
+  }
+}
